@@ -1,0 +1,17 @@
+.searchBook {
+    border: solid 10px rgb(37, 55, 105);
+    padding: 50px;
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 20px;
+}
+
+div.thumbnail {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 50%;
+    height: auto;
+    padding-top: 100%;
+  }
+  
